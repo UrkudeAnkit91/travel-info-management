@@ -1,4 +1,4 @@
-# Airport & Railway Management System
+# Travel Info Management
 
 A full-stack AI-powered management dashboard for airports and railway stations with queue wait-time prediction, delay prediction, live status monitoring, and CCTV surveillance.
 
